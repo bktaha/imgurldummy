@@ -1,2 +1,8 @@
-allimages_sn.model filter=lfs diff=lfs merge=lfs -text
-allimages_rn.model filter=lfs diff=lfs merge=lfs -text
+allimages_rn.model/dir_archive.ini filter=lfs diff=lfs merge=lfs -text
+allimages_rn.model/m_43cd7fc9f6b30cfa.0000 filter=lfs diff=lfs merge=lfs -text
+allimages_rn.model/m_43cd7fc9f6b30cfa.sidx filter=lfs diff=lfs merge=lfs -text
+allimages_rn.model/objects.bin filter=lfs diff=lfs merge=lfs -text
+allimages_sn.model/dir_archive.ini filter=lfs diff=lfs merge=lfs -text
+allimages_sn.model/m_19e518027a848c8f.0000 filter=lfs diff=lfs merge=lfs -text
+allimages_sn.model/m_19e518027a848c8f.sidx filter=lfs diff=lfs merge=lfs -text
+allimages_sn.model/objects.bin filter=lfs diff=lfs merge=lfs -text
