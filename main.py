@@ -9,7 +9,7 @@ BASE_S3_URL = 'https://mokshawd.s3.ap-south-1.amazonaws.com/'
 
 class InputImageURL(BaseModel):
     imgur_url: str
-    model_name: Optional[str] = 'rn'
+    model_name: Optional[str] = 'sn'
 
 class OutputListModel(BaseModel):
     img_features: List[float]
